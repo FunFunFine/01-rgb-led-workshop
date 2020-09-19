@@ -6,7 +6,7 @@
 #define  S2_OUT  4
 #define  S3_OUT  5
 
-MD_TCS230	CS(S2_OUT, S3_OUT, S0_OUT, S1_OUT);
+MD_TCS230 CS(S2_OUT, S3_OUT, S0_OUT, S1_OUT);
 
 void setup() 
 {

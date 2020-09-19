@@ -1,4 +1,3 @@
-#include <Arduino.h>
 #include <MD_TCS230.h>
 
 #define R_OUT 6
